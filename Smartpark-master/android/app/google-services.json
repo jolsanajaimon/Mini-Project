@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149191170997",
+    "project_id": "smartpark-6fae3",
+    "storage_bucket": "smartpark-6fae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149191170997:android:1f1c116e5882354866d7fc",
+        "android_client_info": {
+          "package_name": "com.example.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149191170997-bilsibeofgdud2jian92b2j1gkqqqlkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpark",
+            "certificate_hash": "5bd8057d436f726086f54770f9b2a1ca335e5ad9"
+          }
+        },
+        {
+          "client_id": "149191170997-c2in8cuj746qkb6vfdt7nd7a7oifr0fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7NGTAYnoXInjDtaGfvhGbbJUg4jG9QvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149191170997-c2in8cuj746qkb6vfdt7nd7a7oifr0fa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149191170997-gksruat3i3skvta8c63pj4d86vj56bjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartpark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
